@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Micro Instagram - Posts Management App
 
 A backend application for managing users and their posts using **Node.js**, **Express.js**, **MySQL**, and **Sequelize**. This project provides RESTful APIs for CRUD operations on users and posts, with proper database normalization.
@@ -129,3 +130,6 @@ npm start
 **Test the APIs:**
     Use Postman or cURL to interact with the endpoints.
 
+=======
+# micro-instagram
+>>>>>>> 03404acf1eb5990cbc33bf4699e16e1593d10885
